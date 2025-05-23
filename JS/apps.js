@@ -1,5 +1,5 @@
 const uidToPageMap = {
-    "suisei.html": ["26586B1A", "F625391A", "LIS00SUI"],
+    "suisei.html": ["26586B1A", "F625391A","74EAAC51","D463A851","B4B99C51","LIS00SUI"],
     "calendar.html": ["5605761A","86F56F1A", "LIS00CAL"]
 };
 
